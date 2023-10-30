@@ -1,0 +1,41 @@
+1-  #include <stdio.h>
+    int main(){
+        float a,b;
+        printf("a sayisini giriniz:");
+        scanf("%f",&a);
+        printf("b sayisini giriniz:");
+        scanf("%f",&b);
+        printf("Toplam:%0.2f",a+b);
+        return 0;
+    }
+
+2-  1. satırda yorum satırı açıp programı açıklamış
+    2. satırda programa kütüphane eklemiş
+    3. satırda kodu yazacağımız kısım açılıp döngünün türünü tam sayı olarak atamış
+    5. satırda konsola "Merhaba" yazdırıp "\n" ile alt satıra geçiş yapmış
+    6. satırda "Nasılsın?" yazdırmış
+    7. satırda kodun dönüş sayısını 0 olarak atayıp kodu sonlandırmış
+
+3-  c, d, f, g, k, l
+
+4-  int toplam;
+
+5-  #include <stdio.h>
+    int main(){
+        int a,b;
+        printf("a sayisini giriniz:");
+        scanf("%d",&a);
+        printf("b sayisini giriniz:");
+        scanf("%d",&b);
+        printf("Toplam:%d",a+b);
+        return 0;
+    }
+
+6-  c
+
+7-  a:11 b:7 c:2
+
+8-  1. çıktı: -27.38
+    2. çıktı: -28.4
+    3. çıktı: 25
+    4. çıktı: 290
